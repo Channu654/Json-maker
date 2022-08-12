@@ -1,5 +1,5 @@
 {
-  "data": [
-    { "id": 1, "country": "india", "City": "Bangalore", "Population": "13crs" }
+  "product": [
+    { "id": 1, "brand": "Tata", "City": "Bangalore", "Price": "200000" }
   ]
 }
