@@ -1,5 +1,14 @@
 {
-  "product": [
-    { "id": 1, "brand": "Tata", "City": "Bangalore", "Price": "200000" }
+  "employees": [
+    {
+      "id": 1,
+      "name": "mangu",
+      "age": "26",
+      "gender": "male",
+      "contactnumber": "789456123",
+      "image": "",
+      "department": "software-developer",
+      "sallary": "50000"
+    }
   ]
 }
