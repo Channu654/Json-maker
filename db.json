@@ -1,14 +1,85 @@
 {
-  "employees": [
+  "doctor": [
     {
       "id": 1,
-      "name": "mangu",
-      "age": "26",
-      "gender": "male",
-      "contactnumber": "789456123",
-      "image": "",
-      "department": "software-developer",
-      "sallary": "50000"
-    }
+      "name": "Raju",
+      "Age": "25",
+      "Gender":"Male",
+      "Total_No":4,
+        "img":""
+    },
+     {
+       "id": 2,
+       "name": "madan",
+       "Age": "28",
+       "Gender": "Male",
+       "Total_No": 4,
+       "img": ""
+     },
+      {
+        "id": 3,
+        "name": "Manjula",
+        "Age": "24",
+        "Gender": "feMale",
+        "Total_No": 4,
+        "img": ""
+      },
+       {
+         "id": 4,
+         "name": "Ragu",
+         "Age": 27,
+         "Gender": "Male",
+         "Total_No": 4,
+         "img": ""
+       },
+        {
+          "id": 5,
+          "name": "Raju",
+          "Age": 30,
+          "Gender": "Male",
+          "Total_No": 4,
+          "img": ""
+        },
+         {
+           "id": 6,
+           "name": "Ramu",
+           "Age": 30,
+           "Gender": "Male",
+           "Total_No": 4,
+           "img": ""
+         },
+          {
+            "id": 7,
+            "name": "shambu",
+            "Age":40, 
+            "Gender": "Male",
+            "Total_No": 4,
+            "img": ""
+          },
+          {
+            "id": 8,
+            "name": "shambu",
+            "Age":40, 
+            "Gender": "Male",
+            "Total_No": 4,
+            "img": ""
+          },
+          {
+            "id": 9,
+            "name": "vinod",
+            "Age":28, 
+            "Gender": "Male",
+            "Total_No": 4,
+            "img": ""
+          },
+          {
+            "id": 10,
+            "name": "mangu",
+            "Age":41, 
+            "Gender": "Male",
+            "Total_No": 4,
+            "img": ""
+          }
   ]
+  
 }
