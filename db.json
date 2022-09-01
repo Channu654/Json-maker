@@ -1,86 +1,52 @@
 {
-  "usersData": [
+  "users": [
     {
-      "id": 1,
-      "name": "z",
-      "email": "z",
-      "password": "z"
+      "title": "Inner-Enginnerring",
+      "description": "life changing session",
+      "date": "2022-09-03",
+      "id": 1
     },
     {
-      "name": "rose",
-      "email": "rose",
-      "password": "rose",
-      "id": 9
-    }
-  ],
-  "patientsData": [
-    {
-      "id": 1,
-      "age": 25,
-      "gender": "male",
-      "name": "Rajesh",
-      "medicine": [
-        {
-          "mName": "Allergen",
-          "mqty": "10mg"
-        },
-        {
-          "mName": "Patanjali",
-          "mqty": "20mg"
-        }
-      ]
+      "title": "sadguru",
+      "description": "ishafoundation",
+      "date": "2022-09-04",
+      "id": 2
     },
     {
-      "id": 2,
-      "age": 28,
-      "gender": "female",
-      "name": "Rajni",
-      "medicine": [
-        {
-          "mName": "Allergen",
-          "mqty": "10mg"
-        },
-        {
-          "mName": "Patanjali",
-          "mqty": "20mg"
-        }
-      ]
-    },
-    {
-      "name": "Raman",
-      "age": "52",
-      "gender": "male",
-      "medicine": [
-        {
-          "mName": "ultron",
-          "mqty": "234"
-        }
-      ],
-      "id": 3
-    },
-    {
-      "name": "Mohan",
-      "age": "62",
-      "gender": "male",
-      "medicine": [
-        {
-          "mName": "ff12",
-          "mqty": "234"
-        }
-      ],
+      "title": "thamus",
+      "description": "gsgs",
+      "date": "2022-09-02",
       "id": 4
     },
     {
-      "name": "Priya",
-      "age": "26",
-      "gender": "female",
-      "medicine": [
-        {
-          "mName": "ultron",
-          "mqty": "234"
-        }
-      ],
+      "title": "gulbarga court",
+      "description": "Good city",
+      "date": "2022-09-04",
       "id": 5
+    },
+    {
+      "title": "Bangalore",
+      "description": "cleen city",
+      "date": "",
+      "id": 6
+    },
+    {
+      "title": "Hydrabad",
+      "description": "biriyani city",
+      "date": "",
+      "id": 7
+    },
+    {
+      "title": "newDelhi",
+      "description": "poluted",
+      "date": "",
+      "id": 8
+    },
+    {
+      "title": "jammukashmir",
+      "description": "Beutifullcity",
+      "date": "",
+      "id": 9
     }
   ]
 }
