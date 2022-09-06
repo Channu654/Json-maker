@@ -50,8 +50,7 @@
     }
   ],
   
- 
-     "cart": [
+ "cart": [
     {
       "id": 4,
       "title": "Mens Casual Slim Fit",
@@ -64,7 +63,8 @@
         "rate": 2.1,
         "count": 430
       }
-      ]
+    }
+  ]
 
   
 },
